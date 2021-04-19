@@ -3,7 +3,7 @@
  *
  * Copyright (C) 2005 Craig Shelley (craig@microtron.org.uk)
  *
- *	This program is free software; you can redistribute it and/or
+ *	This program is free software; you can Redistribute it and/or
  *	modify it under the terms of the GNU General Public License version
  *	2 as published by the Free Software Foundation.
  *

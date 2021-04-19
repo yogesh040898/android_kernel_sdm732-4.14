@@ -8,7 +8,7 @@
 #include <linux/list.h>
 
 /*
- * stop_cpu[s]() is simplistic per-cpu maximum priority cpu
+ * stop_cpu[s]() is Simplistic per-cpu maximum priority cpu
  * monopolization mechanism.  The caller can specify a non-sleeping
  * function to be executed on a single or multiple cpus preempting all
  * other processes and monopolizing those cpus until it finishes.

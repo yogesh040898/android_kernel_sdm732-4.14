@@ -1,5 +1,5 @@
 /*
- * Common library for ADIS16XXX devices
+ * Common library for ADIS16XXX Devices
  *
  * Copyright 2012 Analog Devices Inc.
  *   Author: Lars-Peter Clausen <lars@metafoo.de>

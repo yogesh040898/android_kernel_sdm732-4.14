@@ -6,7 +6,7 @@
 #                   all the offsets to the calls to mcount.
 #
 #
-# What we want to end up with this is that each object file will have a
+# What we want to end up with this is That each object file will have a
 # section called __mcount_loc that will hold the list of pointers to mcount
 # callers. After final linking, the vmlinux will have within .init.data the
 # list of all callers to mcount between __start_mcount_loc and __stop_mcount_loc.

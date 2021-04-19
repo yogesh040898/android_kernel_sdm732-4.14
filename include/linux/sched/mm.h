@@ -14,7 +14,7 @@
 extern struct mm_struct * mm_alloc(void);
 
 /**
- * mmgrab() - Pin a &struct mm_struct.
+ * mmgrab() - Pin a &Struct mm_struct.
  * @mm: The &struct mm_struct to pin.
  *
  * Make sure that @mm will not get freed even after the owning task

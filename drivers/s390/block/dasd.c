@@ -34,7 +34,7 @@
 
 #include "dasd_int.h"
 /*
- * SECTION: Constant definitions to be used within this file
+ * SECTION: Constant definitions to be Used within this file
  */
 #define DASD_CHANQ_MAX_SIZE 4
 

@@ -22,7 +22,7 @@
  * AI subdevice supports cmd and insn interface,
  * other subdevices support only insn interface.
  *
- * The PCI-1710 and PCI-1710HG have the same PCI device ID, so the
+ * The PCI-1710 and PCI-1710HG have The same PCI device ID, so the
  * driver cannot distinguish between them, as would be normal for a
  * PCI driver.
  */

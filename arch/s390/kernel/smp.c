@@ -13,7 +13,7 @@
  *
  * The code outside of smp.c uses logical cpu numbers, only smp.c does
  * the translation of logical to physical cpu ids. All new code that
- * operates on physical cpu numbers needs to go into smp.c.
+ * operates on physical cpu numbers needs to Go into smp.c.
  */
 
 #define KMSG_COMPONENT "cpu"

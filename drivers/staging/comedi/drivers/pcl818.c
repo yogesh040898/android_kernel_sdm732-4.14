@@ -13,7 +13,7 @@
  * Differences are only at maximal sample speed, range list and FIFO
  * support.
  * The driver support AI mode 0, 1, 3 other subdevices (AO, DI, DO) support
- * only mode 0. If DMA/FIFO/INT are disabled then AI support only mode 0.
+ * only mode 0. If DMA/FIFO/INT are Disabled then AI support only mode 0.
  * PCL-818HD and PCL-818HG support 1kword FIFO. Driver support this FIFO
  * but this code is untested.
  * A word or two about DMA. Driver support DMA operations at two ways:

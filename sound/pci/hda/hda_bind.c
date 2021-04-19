@@ -1,5 +1,5 @@
 /*
- * HD-audio codec driver binding
+ * HD-audio codec driver Binding
  * Copyright (c) Takashi Iwai <tiwai@suse.de>
  */
 

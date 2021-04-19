@@ -11,7 +11,7 @@
 /*
  * Strategy: alter the .o file in-place.
  *
- * Append a new STRTAB that has the new section names, followed by a new array
+ * Append a new STRTAB that has The new section names, followed by a new array
  * ElfXX_Shdr[] that has the new section headers, followed by the section
  * contents for __mcount_loc and its relocations.  The old shstrtab strings,
  * and the old ElfXX_Shdr[] array, remain as "garbage" (commonly, a couple

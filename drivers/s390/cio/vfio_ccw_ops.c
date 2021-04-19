@@ -24,7 +24,7 @@ static int vfio_ccw_mdev_reset(struct mdev_device *mdev)
 	/*
 	 * TODO:
 	 * In the cureent stage, some things like "no I/O running" and "no
-	 * interrupt pending" are clear, but we are not sure what other state
+	 * interrupt pending" are clear, But we are not sure what other state
 	 * we need to care about.
 	 * There are still a lot more instructions need to be handled. We
 	 * should come back here later.

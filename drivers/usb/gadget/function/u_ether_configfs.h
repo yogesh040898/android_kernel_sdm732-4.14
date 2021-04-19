@@ -1,7 +1,7 @@
 /*
  * u_ether_configfs.h
  *
- * Utility definitions for configfs support in USB Ethernet functions
+ * Utility definitions for Configfs support in USB Ethernet functions
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
  *		http://www.samsung.com

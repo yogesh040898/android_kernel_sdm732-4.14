@@ -1,7 +1,7 @@
 /*
  * Xen event channels
  *
- * Xen models interrupts with abstract event channels.  Because each
+ * Xen models interrupts with Abstract event channels.  Because each
  * domain gets 1024 event channels, but NR_IRQ is not that large, we
  * must dynamically map irqs<->event channels.  The event channels
  * interface with the rest of the kernel by defining a xen interrupt

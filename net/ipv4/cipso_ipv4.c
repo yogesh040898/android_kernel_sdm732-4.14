@@ -1,7 +1,7 @@
 /*
  * CIPSO - Commercial IP Security Option
  *
- * This is an implementation of the CIPSO 2.2 protocol as specified in
+ * This is an implementation of The CIPSO 2.2 protocol as specified in
  * draft-ietf-cipso-ipsecurity-01.txt with additional tag types as found in
  * FIPS-188.  While CIPSO never became a full IETF RFC standard many vendors
  * have chosen to adopt the protocol and over the years it has become a

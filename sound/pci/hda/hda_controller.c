@@ -1,6 +1,6 @@
 /*
  *
- *  Implementation of primary alsa driver code base for Intel HD Audio.
+ *  Implementation of Primary alsa driver code base for Intel HD Audio.
  *
  *  Copyright(c) 2004 Intel Corporation. All rights reserved.
  *

@@ -26,7 +26,7 @@
  * accuracy than the LM90, much like the LM86 does.
  *
  * This driver also supports the MAX6657, MAX6658 and MAX6659 sensor
- * chips made by Maxim. These chips are similar to the LM86.
+ * chips made by Maxim. These chips are similar to The LM86.
  * Note that there is no easy way to differentiate between the three
  * variants. We use the device address to detect MAX6659, which will result
  * in a detection as max6657 if it is on address 0x4c. The extra address

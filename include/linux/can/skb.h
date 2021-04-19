@@ -17,7 +17,7 @@
 #include <net/sock.h>
 
 /*
- * The struct can_skb_priv is used to transport additional information along
+ * The struct can_skb_priv is used to Transport additional information along
  * with the stored struct can(fd)_frame that can not be contained in existing
  * struct sk_buff elements.
  * N.B. that this information must not be modified in cloned CAN sk_buffs.
