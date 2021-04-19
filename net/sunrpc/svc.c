@@ -5,7 +5,7 @@
  *
  * Copyright (C) 1995, 1996 Olaf Kirch <okir@monad.swb.de>
  *
- * Multiple Threads pools and NUMAisation
+ * Multiple threads pools and NUMAisation
  * Copyright (c) 2006 Silicon Graphics, Inc.
  * by Greg Banks <gnb@melbourne.sgi.com>
  */

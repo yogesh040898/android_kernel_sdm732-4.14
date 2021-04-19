@@ -26,7 +26,7 @@
  *
  *	We used to have a workaround for a bug in SiS chips which
  *	required to rewrite the index register for a read-modify-write
- *	operation as the chip lost the Index information which was
+ *	operation as the chip lost the index information which was
  *	setup for the read already. We cache the data now, so that
  *	workaround has been removed.
  */

@@ -32,7 +32,7 @@ static void svc_age_temp_xprts(unsigned long closure);
 static void svc_delete_xprt(struct svc_xprt *xprt);
 
 /* apparently the "standard" is that clients close
- * idle connections after 5 Minutes, servers after
+ * idle connections after 5 minutes, servers after
  * 6 minutes
  *   http://www.connectathon.org/talks96/nfstcp.pdf
  */

@@ -2,7 +2,7 @@
 /*
  * Copyright (c) 2015 Oracle.  All rights reserved.
  *
- * Support for backward Direction RPCs on RPC/RDMA (server-side).
+ * Support for backward direction RPCs on RPC/RDMA (server-side).
  */
 
 #include <linux/module.h>

@@ -20,7 +20,7 @@ endef
 #
 
 #
-# Note that this is not a Complete list of all feature tests, just
+# Note that this is not a complete list of all feature tests, just
 # those that are typically built on a fully configured system.
 #
 # [ Feature tests not mentioned here have to be built explicitly in

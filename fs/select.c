@@ -7,7 +7,7 @@
  *
  *  4 February 1994
  *     COFF/ELF binary emulation. If the process has the STICKY_TIMEOUTS
- *     flag set in its personality we do *not* Modify the given timeout
+ *     flag set in its personality we do *not* modify the given timeout
  *     parameter to reflect time remaining.
  *
  *  24 January 2000

@@ -8,7 +8,7 @@
  *  High-resolution kernel timers
  *
  *  In contrast to the low-resolution timeout API implemented in
- *  kernel/timer.c, hrtimers provide finer Resolution and accuracy
+ *  kernel/timer.c, hrtimers provide finer resolution and accuracy
  *  depending on system configuration and capabilities.
  *
  *  These timers are currently used for:

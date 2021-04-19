@@ -4,7 +4,7 @@
  * Copyright (C) 1992, 1998-2006 Linus Torvalds, Ingo Molnar
  * Copyright (C) 2005-2006 Thomas Gleixner
  *
- * This file contains driver APIs to The irq subsystem.
+ * This file contains driver APIs to the irq subsystem.
  */
 
 #define pr_fmt(fmt) "genirq: " fmt

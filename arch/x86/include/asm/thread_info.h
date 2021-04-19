@@ -25,7 +25,7 @@
  * If we take an NMI early enough in SYSENTER, then we can end up with
  * pt_regs that extends above sp0.  On the way out, in the espfix code,
  * we can read the saved SS value, but that value will be above sp0.
- * Without this offset, that can Result in a page fault.  (We are
+ * Without this offset, that can result in a page fault.  (We are
  * careful that, in this case, the value we read doesn't matter.)
  *
  * In vm86 mode, the hardware frame is much longer still, so add 16

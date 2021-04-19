@@ -21,7 +21,7 @@
  * It is important to note that in a number of cases this class
  * exhibits class-specific exemptions from the USB specification.
  * Notably the usage of NAK, STALL and ACK differs from the norm, in
- * that they are used to communicate wait, Failed and OK on commands.
+ * that they are used to communicate wait, failed and OK on commands.
  *
  * Also, for certain devices, the interrupt endpoint is used to convey
  * status of a command.

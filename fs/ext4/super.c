@@ -12,7 +12,7 @@
  *
  *  Copyright (C) 1991, 1992  Linus Torvalds
  *
- *  Big-endian to little-endian Byte-swapping/bitmaps by
+ *  Big-endian to little-endian byte-swapping/bitmaps by
  *        David S. Miller (davem@caip.rutgers.edu), 1995
  */
 

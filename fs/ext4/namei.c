@@ -17,7 +17,7 @@
  *        David S. Miller (davem@caip.rutgers.edu), 1995
  *  Directory entry file type support and forward compatibility hooks
  *	for B-tree directories by Theodore Ts'o (tytso@mit.edu), 1998
- *  Hash Tree Directory Indexing (c)
+ *  Hash Tree Directory indexing (c)
  *	Daniel Phillips, 2001
  *  Hash Tree Directory Indexing porting
  *	Christopher Li, 2002
