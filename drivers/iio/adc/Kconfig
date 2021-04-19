@@ -20,7 +20,7 @@ config AD7266
 	  Say yes here to build support for Analog Devices AD7265 and AD7266
 	  ADCs.
 
-	  To compile this driver as a module, choose M here: the module will be
+	  To Compile this driver as a module, choose M here: the module will be
 	  called ad7266.
 
 config AD7291

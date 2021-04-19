@@ -48,7 +48,7 @@
  */
 
 /*
- * with AGGRESSIVE_CHECK allocator runs consistency checks over
+ * with AGGRESSIVE_CHECK Allocator runs consistency checks over
  * structures. these checks slow things down a lot
  */
 #define AGGRESSIVE_CHECK__

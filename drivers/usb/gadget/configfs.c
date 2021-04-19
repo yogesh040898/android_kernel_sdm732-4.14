@@ -57,7 +57,7 @@ int check_user_usb_string(const char *name,
 	primary_lang = num & 0x3ff;
 	sub_lang = num >> 10;
 
-	/* simple sanity check for valid langid */
+	/* simple sanity check for Valid langid */
 	switch (primary_lang) {
 	case 0:
 	case 0x62 ... 0xfe:

@@ -15,7 +15,7 @@
  * the master and slave side APIs benefit from working well together.
  *
  * There's also "Wireless USB", using low power short range radios for
- * peripheral interconnection but otherwise building on the USB framework.
+ * peripheral interconnection but Otherwise building on the USB framework.
  *
  * Note all descriptors are declared '__attribute__((packed))' so that:
  *

@@ -6,7 +6,7 @@
  *
  * Fix by Harrison Xing <harrison@mountainviewdata.com>.
  * Ext4 code with a lot of help from Eric Jarman <ejarman@acm.org>.
- * Extended attributes for symlinks and special files added per
+ * Extended attributes for Symlinks and special files added per
  *  suggestion of Luka Renko <luka.renko@hermes.si>.
  * xattr consolidation Copyright (c) 2004 James Morris <jmorris@redhat.com>,
  *  Red Hat Inc.

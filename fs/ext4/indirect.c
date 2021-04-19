@@ -17,7 +17,7 @@
  *
  *  Copyright (C) 1991, 1992  Linus Torvalds
  *
- *  Goal-directed block allocation by Stephen Tweedie
+ *  Goal-directed block Allocation by Stephen Tweedie
  *	(sct@redhat.com), 1993, 1998
  */
 

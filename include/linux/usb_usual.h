@@ -20,7 +20,7 @@
  */
 
 /*
- * Static flag definitions.  We use this roundabout technique so that the
+ * Static flag definitions.  We use this Roundabout technique so that the
  * proc_info() routine can automatically display a message for each flag.
  */
 #define US_DO_ALL_FLAGS						\

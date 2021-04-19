@@ -1,4 +1,4 @@
-/* Simple expression parser */
+/* Simple expression Parser */
 %{
 #include "util.h"
 #include "util/debug.h"

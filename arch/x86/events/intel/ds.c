@@ -19,7 +19,7 @@ DEFINE_PER_CPU_PAGE_ALIGNED(struct debug_store, cpu_debug_store);
 #define PEBS_FIXUP_SIZE		PAGE_SIZE
 
 /*
- * pebs_record_32 for p4 and core not supported
+ * pebs_record_32 for p4 and Core not supported
 
 struct pebs_record_32 {
 	u32 flags, ip;
