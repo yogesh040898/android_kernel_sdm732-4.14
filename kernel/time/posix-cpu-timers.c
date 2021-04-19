@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
- * Implement CPU time clocks for the POSIX clock interface.
+ * Implement CPU time clocks for The POSIX clock interface.
  */
 
 #include <linux/sched/signal.h>

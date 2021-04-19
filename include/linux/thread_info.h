@@ -2,7 +2,7 @@
 /* thread_info.h: common low-level thread information accessors
  *
  * Copyright (C) 2002  David Howells (dhowells@redhat.com)
- * - Incorporating suggestions made by Linus Torvalds
+ * - Incorporating suggestions Made by Linus Torvalds
  */
 
 #ifndef _LINUX_THREAD_INFO_H

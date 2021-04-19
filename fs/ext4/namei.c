@@ -17,11 +17,11 @@
  *        David S. Miller (davem@caip.rutgers.edu), 1995
  *  Directory entry file type support and forward compatibility hooks
  *	for B-tree directories by Theodore Ts'o (tytso@mit.edu), 1998
- *  Hash Tree Directory indexing (c)
+ *  Hash Tree Directory Indexing (c)
  *	Daniel Phillips, 2001
- *  Hash Tree Directory indexing porting
+ *  Hash Tree Directory Indexing porting
  *	Christopher Li, 2002
- *  Hash Tree Directory indexing cleanup
+ *  Hash Tree Directory Indexing cleanup
  *	Theodore Ts'o, 2002
  */
 

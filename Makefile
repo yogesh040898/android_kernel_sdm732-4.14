@@ -1,12 +1,12 @@
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 4
 PATCHLEVEL = 14
-SUBLEVEL = 227
+SUBLEVEL = 228
 EXTRAVERSION =
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
-# To see a list of typical targets execute "make help"
+# To see a list of typical Targets execute "make help"
 # More info can be located in ./README
 # Comments in this file are targeted only to the developer, do not
 # expect to learn how to build the kernel reading this file.

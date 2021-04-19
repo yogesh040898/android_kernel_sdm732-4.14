@@ -5,7 +5,7 @@
  * Copyright (C) 2009
  * Theodore Ts'o (tytso@mit.edu)
  *
- * Track which blocks in the filesystem are metadata blocks that
+ * Track which blocks in the Filesystem are metadata blocks that
  * should never be used as data blocks by files or directories.
  */
 

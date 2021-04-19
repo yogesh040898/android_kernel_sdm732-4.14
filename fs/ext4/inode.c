@@ -16,7 +16,7 @@
  *  64-bit file support on 64-bit platforms by Jakub Jelinek
  *	(jj@sunsite.ms.mff.cuni.cz)
  *
- *  Assorted race fixes, rewrite of ext4_get_block() by Al Viro, 2000
+ *  Assorted race fixes, Rewrite of ext4_get_block() by Al Viro, 2000
  */
 
 #include <linux/fs.h>

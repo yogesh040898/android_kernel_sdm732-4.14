@@ -7,7 +7,7 @@
  * Based on the input subsystem driver, Copyright (C) 2011 Wistron Co.Ltd
  * Joseph Lai <joseph_lai@wistron.com> and trimmed down by
  * Alan Cox <alan@linux.intel.com> in turn based on bma023.c.
- * Device behaviour based on a misc driver posted by Nathan Royer in 2011.
+ * Device behaviour Based on a misc driver posted by Nathan Royer in 2011.
  *
  * TODO: add support for setting up the low pass 3dB frequency.
  */

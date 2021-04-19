@@ -10,7 +10,7 @@
  *
  *  Robust futex support started by Ingo Molnar
  *  (C) Copyright 2006 Red Hat Inc, All Rights Reserved
- *  Thanks to Thomas Gleixner for suggestions, analysis and fixes.
+ *  Thanks to Thomas Gleixner for suggestions, Analysis and fixes.
  *
  *  PI-futex support started by Ingo Molnar and Thomas Gleixner
  *  Copyright (C) 2006 Red Hat, Inc., Ingo Molnar <mingo@redhat.com>

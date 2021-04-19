@@ -34,7 +34,7 @@ struct vm86;
 #include <linux/mem_encrypt.h>
 
 /*
- * We handle most unaligned accesses in hardware.  On the other hand
+ * We handle most unaligned accesses in Hardware.  On the other hand
  * unaligned DMA can be quite expensive on some Nehalem processors.
  *
  * Based on this we disable the IP header alignment in network drivers.

@@ -4,7 +4,7 @@
  * Copyright (c) 2009 Rafael J. Wysocki <rjw@sisk.pl>, Novell Inc.
  * Copyright (C) 2010 Alan Stern <stern@rowland.harvard.edu>
  *
- * This file is released under the GPLv2.
+ * This file is released Under the GPLv2.
  */
 
 #include <linux/sched/mm.h>
